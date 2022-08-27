@@ -1,1 +1,17 @@
-
+{
+  "name": "xmpp-stanza-ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pocketfood",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.3",
+    "express-session": "^1.17.3",
+    "stanza": "^12.17.2"
+  }
+}
