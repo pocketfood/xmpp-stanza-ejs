@@ -5,3 +5,7 @@ Just connects and outputs basic info into a small card
 
 Uses stanzajs, expressjs and pushes that data to ejs
 Outputs connection, Roster List and replies in terminal.
+
+---
+
+It was suppose to be a profile page for xmpp.
